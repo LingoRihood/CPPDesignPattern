@@ -1,0 +1,3 @@
+/home/ubuntu/DesignPattern/PrototypePattern/build/CMakeFiles/main.dir
+/home/ubuntu/DesignPattern/PrototypePattern/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/DesignPattern/PrototypePattern/build/CMakeFiles/rebuild_cache.dir
