@@ -1,0 +1,3 @@
+/home/ubuntu/DesignPattern/CommandPattern/build/CMakeFiles/main.dir
+/home/ubuntu/DesignPattern/CommandPattern/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/DesignPattern/CommandPattern/build/CMakeFiles/rebuild_cache.dir
